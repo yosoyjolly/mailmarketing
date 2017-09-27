@@ -1,0 +1,50 @@
+@import 'settings';
+@import 'foundation-emails';
+
+@import 'template/template';
+
+// Styles
+
+.no-padding{
+	padding: 0px !important;
+}
+
+.logo-header{
+	background-color: $primary-color;
+}
+
+.baja{
+	padding: 15px;
+	font-size: 11px;
+}
+.baja-btn{
+	color: $primary-color;
+}
+.little-spacer{
+	width:90%;
+	padding: 0px 5px;
+}
+.mini-spacer{
+	width:100%;
+	margin-bottom: 10px;
+}
+
+h1{
+	font-size:26px;
+	color:#fff;
+	margin-top:49px;
+}
+
+h2{
+	font-size: 18px;
+	margin: 10px 0 10px 0;
+}
+.img-description{
+	font-size:12px;
+	padding:20px 0;
+	margin-bottom:35px;
+}
+
+.logo{
+	padding:15px
+}
